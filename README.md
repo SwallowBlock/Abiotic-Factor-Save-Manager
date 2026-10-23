@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Abiotic-Factor-Save-Manager` · Updated: 2026-10-07
+`Abiotic-Factor-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `abiotic-factor` `save-manager` `survival` `crafting` `steam`
